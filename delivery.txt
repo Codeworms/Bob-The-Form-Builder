@@ -1,0 +1,9 @@
+Delivery Form Instructions
+
+1. There should be 8 fields along with a checkbox, a group of radiobuttons and a submit button
+2. All fields should have a label as shown in the image
+3. Each group of input and label should be grouped in a div
+4. The fields with a * should be required
+5. It should be mandatory to select one of the 3 radio buttons
+6. The special details textarea should have 3 rows and 20 columns. It should also be allowed to take a maximum of 100 characters
+7. The phone number should be between 600000000 and 9999999999

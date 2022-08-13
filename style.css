@@ -1,0 +1,16 @@
+/*  Code for Date styling 
+
+ Do not touch, please */
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	filter:invert(100%);
+	font-family:sans-serif;
+}
+

@@ -1,0 +1,10 @@
+Fancy Date Creator Instructions
+
+1. There should be 3 fields and a submit button
+2. All fields should have a label as shown in the image
+3. Each group of input and label should be grouped in a div
+3. The form should submit to /date.html on a NEW tab
+4. The names for inputs are as follows : 
+		Color Field : color
+		Date Field : date
+		Range Input : size
